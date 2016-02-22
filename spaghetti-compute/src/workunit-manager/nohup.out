@@ -1,0 +1,259 @@
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 06:55:11] "GET /done HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 06:55:11] "GET /favicon.ico HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 06:55:11] "GET /favicon.ico HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 06:55:17] "GET /workunit/get HTTP/1.1" 405 -
+70.51.158.161 - - [21/Feb/2016 06:57:29] "GET / HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 06:57:29] "GET /favicon.ico HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 06:57:29] "GET /favicon.ico HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 06:57:39] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 06:57:55] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:02:55] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:14:43] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:16:22] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:17:16] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:17:16] "OPTIONS /proofofwork/check HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 07:17:16] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:17:16] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:17:22] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:19:55] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:19:55] "OPTIONS /proofofwork/check HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 07:19:55] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:19:55] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:20:01] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:20:43] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:20:43] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:20:43] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:20:43] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:13] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:13] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:13] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:13] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:40] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:40] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:40] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:23:40] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:24:05] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:24:05] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:24:05] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:24:05] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:26:01] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:26:01] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:26:01] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:26:01] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:47] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:47] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:47] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:47] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:57] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:57] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:57] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:27:57] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:28:49] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:28:49] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:28:49] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:28:49] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:01] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:01] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:01] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:01] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:18] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:18] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:18] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:18] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:27] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:27] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:27] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:27] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:35] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:35] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:35] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:35] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:43] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:43] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:43] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:29:43] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:30:56] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:30:56] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:30:56] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:30:56] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+127.0.0.1 - - [21/Feb/2016 07:31:32] "GET / HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 07:31:32] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:32] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:32] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:32] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:49] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:49] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:49] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:31:49] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:10] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:10] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:10] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:10] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:20] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:20] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:20] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:21] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:32:46] "GET / HTTP/1.1" 404 -
+70.51.158.161 - - [21/Feb/2016 07:36:04] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:04] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:04] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:04] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:43] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:43] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:43] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:36:43] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:37:45] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:37:45] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:37:45] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:37:45] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:38:18] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:38:18] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:38:19] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:38:19] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:41:46] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:41:46] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:41:47] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:41:47] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:42:28] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:42:28] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:42:28] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:42:28] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:43:08] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:43:08] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:43:08] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:43:08] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:45:14] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:45:20] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:45:20] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:45:20] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:48:25] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:48:26] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:48:26] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:48:26] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:51:30] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:51:38] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:52:34] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:53:39] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:53:39] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:53:39] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:53:39] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:59:09] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:59:11] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:59:11] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:59:11] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:01:27] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:01:28] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:01:28] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:01:28] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:22:30] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:22:31] "OPTIONS /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:22:31] "POST /workunit/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:22:31] "GET /js/Job1Job1Job1Job1Job1Job1Job1Job1 HTTP/1.1" 200 -
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/workunit-manager/proofofwork.py', reloading
+--------{u'callback': u'http://ca62493f.ngrok.io/', u'name': u"Ethan's Customer Job", u'uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1'}
+{u'buffer_len': 24, u'critical_buffer_len': 10}
+function run(x) {
+    console.log("[[[ THIS IS FROM THE JOB! ]]]\nData: " + x);
+}
+ * Restarting with stat
+init job Job1Job1Job1Job1Job1Job1Job1Job1 ==> https://2b93f087.ngrok.io/
+Traceback (most recent call last):
+  File "workunit-manager.py", line 48, in <module>
+    jobs.append(Job(job["uuid"], job["callback"]))
+  File "workunit-manager.py", line 27, in __init__
+    workunits = requests.get(callback + "workunits?amt=" + str(self.buffer_len)).json()
+  File "/usr/lib/python2.7/dist-packages/requests/models.py", line 740, in json
+    return json.loads(self.content.decode(encoding), **kwargs)
+  File "/usr/lib/python2.7/dist-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/dist-packages/simplejson/decoder.py", line 370, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib/python2.7/dist-packages/simplejson/decoder.py", line 389, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+--------{u'callback': u'http://ca62493f.ngrok.io/', u'name': u"Ethan's Customer Job", u'uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1'}
+{u'buffer_len': 24, u'critical_buffer_len': 10}
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 08:33:01] "GET / HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:33:01] "GET / HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:54:43] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:54:45] "OPTIONS /workunit/get HTTP/1.1" 200 -
+/usr/local/lib/python2.7/dist-packages/werkzeug/filesystem.py:63: BrokenFilesystemWarning: Detected a misconfigured UNIX filesystem: Will use UTF-8 as filesystem encoding instead of 'ANSI_X3.4-1968'
+  BrokenFilesystemWarning)
+70.51.158.161 - - [21/Feb/2016 08:54:45] "POST /workunit/get HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ethan2-0/git/spaghetti-compute/src/workunit-manager/workunit-manager.py", line 65, in getWorkUnit
+    proofOfWorkResponse = proofofwork.ProofOfWorkResponse.fromJson(json_object)
+  File "/home/ethan2-0/git/spaghetti-compute/src/workunit-manager/proofofwork.py", line 63, in fromJson
+    return ProofOfWorkResponse(json["prefix"], json["mac"], json["time"], json["suffix"])
+TypeError: __init__() takes exactly 2 arguments (5 given)
+init job Job1Job1Job1Job1Job1Job1Job1Job1 ==> http://ca62493f.ngrok.io/
+refilling buffer (Job1Job1Job1Job1Job1Job1Job1Job1) to minimum length 24
+init job Job1Job1Job1Job1Job1Job1Job1Job1 ==> http://ca62493f.ngrok.io/
+refilling buffer (Job1Job1Job1Job1Job1Job1Job1Job1) to minimum length 24
+ * Running on http://0.0.0.0:5002/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 09:53:11] "GET /proofofwork/get HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 09:53:12] "OPTIONS /workunit/get HTTP/1.1" 200 -
+/usr/local/lib/python2.7/dist-packages/werkzeug/filesystem.py:63: BrokenFilesystemWarning: Detected a misconfigured UNIX filesystem: Will use UTF-8 as filesystem encoding instead of 'ANSI_X3.4-1968'
+  BrokenFilesystemWarning)
+70.51.158.161 - - [21/Feb/2016 09:53:12] "POST /workunit/get HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ethan2-0/git/spaghetti-compute/src/workunit-manager/workunit-manager.py", line 65, in getWorkUnit
+    proofOfWorkResponse = proofofwork.ProofOfWorkResponse.fromJson(json_object)
+  File "/home/ethan2-0/git/spaghetti-compute/src/workunit-manager/proofofwork.py", line 63, in fromJson
+    return ProofOfWorkResponse(json["prefix"], json["mac"], json["time"], json["suffix"])
+TypeError: __init__() takes exactly 2 arguments (5 given)
+init job Job1Job1Job1Job1Job1Job1Job1Job1 ==> http://ca62493f.ngrok.io/
+refilling buffer (Job1Job1Job1Job1Job1Job1Job1Job1) to minimum length 24
+init job Job1Job1Job1Job1Job1Job1Job1Job1 ==> http://ca62493f.ngrok.io/
+refilling buffer (Job1Job1Job1Job1Job1Job1Job1Job1) to minimum length 24

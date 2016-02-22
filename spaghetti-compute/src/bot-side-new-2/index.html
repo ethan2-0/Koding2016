@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script type='text/javascript'>
+      //responder URL
+      var responderURL = "http://ueks277167ba.ethan2-0.koding.io:5001";
+
+      //init the web worker
+      var bot = new Worker('static/task.js');
+
+      //add a response handler
+      bot.addEventListener('message', function(msg) {
+        fetch(responderURL + "/done", {
+          method : "post",
+          headers : {
+            'Accept' : 'application/json',
+            'Content-Type' : 'application/json'
+          },
+          body : JSON.stringify(msg.data)
+        }).catch(function(error) {
+          console.error(error);
+          return error;
+        });
+        console.log("yay!");
+        return "yay!";
+      });
+
+    </script>
+  </body>
+</html>

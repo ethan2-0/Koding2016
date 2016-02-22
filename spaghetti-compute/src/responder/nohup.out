@@ -1,0 +1,269 @@
+
+70.51.158.161 - - [21/Feb/2016 07:43:08] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:43:08] "POST /done HTTP/1.1" 200 -
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+Request to /done
+Request-body {"job_uuid":"Job1Job1Job1Job1Job1Job1Job1Job1","workunit_id":"FEI31zIIKAuUHd7q3wWhUn2Qeih3xWRG","proof_of_work":{"prefix":"LTqmOxXxVZ7cks2cnjW9P12z8xXcovlI","mac":"5604cc95d91e3826ce515f9170d8e71c0b7daf53072ddaed44b8675c66c9c5f7a876ec8dbb929e7e85247d3dc7b88f66","time":1456062188,"suffix":3}}
+{u'workunit_id': u'FEI31zIIKAuUHd7q3wWhUn2Qeih3xWRG', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'proof_of_work': {u'prefix': u'LTqmOxXxVZ7cks2cnjW9P12z8xXcovlI', u'suffix': 3, u'mac': u'5604cc95d91e3826ce515f9170d8e71c0b7daf53072ddaed44b8675c66c9c5f7a876ec8dbb929e7e85247d3dc7b88f66', u'time': 1456062188}}
+request body is invalid
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 07:45:20] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:45:20] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:48:26] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:48:26] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:53:39] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:53:39] "POST /done HTTP/1.1" 200 -
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+{u'workunit_id': u'T7rwfnVxowCpEipKEf8hD5f6UQ8aElZh', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'proof_of_work': {u'prefix': u'HXo1c5AceNWXlLgmRHEvkmUOAFMhln71', u'suffix': 3, u'mac': u'0acf7b337e210762d563ac38f5772b91b719551192f454cf8c199140329e8f676b3825ace8c6ff32769ab3abc324cebb', u'time': 1456062314}}
+request body is invalid
+{u'workunit_id': u'TuqPABbi4Zjcza0b820ZEDZy1MNs2N2I', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'proof_of_work': {u'prefix': u'jMby9ts3XskpkKoUSH4IaCsgdXWPVqgd', u'suffix': 16642, u'mac': u'c8b9c188e6a8912ad66b7d4cfad87c560b3a7480323e26036398be13aff7e0e254fa8acfa72dd450c1a9c7e17e2edb01', u'time': 1456062505}}
+request body is invalid
+{u'workunit_id': u'K8NmAqTfCqPniWaXruOeCawKkPKvCrDZ', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'proof_of_work': {u'prefix': u'znMWtZslnntf77o0K0b1xH5D5iow1Ucd', u'suffix': 5986, u'mac': u'8fcd350de5f86d564a82a11f28979a83da5016b6f2cb786bdb0f0a44850ca1e1b1d8b2279cfe889b1eb2d4dab5c3344a', u'time': 1456062819}}
+request body is invalid
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 07:59:17] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 07:59:17] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:01:28] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:01:34] "POST /done HTTP/1.1" 200 -
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+{u'workunit_id': u'fOVS4QeID2RbocBXAFCuk6NuFDkEtqBZ', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'proof_of_work': {u'prefix': u'etBULgGKzrdfw1x0Cg54QO3ZXcxDNEDK', u'suffix': 69748, u'mac': u'982957140e97471110576698b66a143a9e0649030c354120657877c49639d8b8fc0c582c856e87d3a63b72629e9e55eb', u'time': 1456063149}}
+request body is invalid
+{u'proof_of_work': {u'prefix': u'zJ8JFAZVOtmZQAQavIm4kwtvt9i0P46E', u'suffix': 21191, u'mac': u'a63f261118a7ac7105c3af9573c249bc7673bde10f72408661277685b1bf3b2c9ce289810ee182967ad7870161af000a', u'time': 1456063287}, u'workunit_id': u'ofkgPCe4PowSdvolUFyKQ1wXpjSPuP2o', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'response': u'undefined'}
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 08:22:31] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 08:22:31] "POST /done HTTP/1.1" 200 -
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+{u'proof_of_work': {u'prefix': u'QPwnoU13dOTGrlDufkNM80BnvQI3OKRt', u'suffix': 27479, u'mac': u'61df6c22c309c1ad0e6a408661be529c690d7b1fcf4cd662c1c082f141dee7fc8d44c3d4e9df0cdb9215f8c525095866', u'time': 1456064550}, u'workunit_id': u'rZFvnjnnkWZlC2lUBKHiiD2HrcgjyD4x', u'job_uuid': u'Job1Job1Job1Job1Job1Job1Job1Job1', u'response': u'undefined'}
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+  File "main.py", line 29
+    <<<<<<< Updated upstream
+    ^
+IndentationError: expected an indented block
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 08:33:03] "GET / HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:07:37] "OPTIONS /done HTTP/1.1" 200 -
+/usr/local/lib/python2.7/dist-packages/werkzeug/filesystem.py:63: BrokenFilesystemWarning: Detected a misconfigured UNIX filesystem: Will use UTF-8 as filesystem encoding instead of 'ANSI_X3.4-1968'
+  BrokenFilesystemWarning)
+70.51.158.161 - - [21/Feb/2016 10:07:37] "POST /done HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ethan2-0/git/spaghetti-compute/src/responder/main.py", line 32, in done
+    if proofofwork.ProofOfWorkResponse(json_object["proof_of_work"]).isValid():
+NameError: global name 'proofofwork' is not defined
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 10:10:55] "OPTIONS /done HTTP/1.1" 200 -
+/usr/local/lib/python2.7/dist-packages/werkzeug/filesystem.py:63: BrokenFilesystemWarning: Detected a misconfigured UNIX filesystem: Will use UTF-8 as filesystem encoding instead of 'ANSI_X3.4-1968'
+  BrokenFilesystemWarning)
+70.51.158.161 - - [21/Feb/2016 10:10:55] "POST /done HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1836, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1820, in wsgi_app
+    response = self.make_response(self.handle_exception(e))
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1403, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 188, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ethan2-0/git/spaghetti-compute/src/responder/main.py", line 33, in done
+    if proofofwork.ProofOfWorkResponse(json_object["proof_of_work"]).isValid():
+TypeError: __init__() takes exactly 5 arguments (2 given)
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/proofofwork.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+ * Detected change in '/home/ethan2-0/git/spaghetti-compute/src/responder/main.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 10:12:26] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:26] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:28] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:29] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:37] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:37] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:45] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:45] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:47] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:48] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:54] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:12:59] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:14] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:14] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:20] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:20] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:25] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:25] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:35] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:35] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:45] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:13:46] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:18:09] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:18:09] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:18:13] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:18:13] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:30] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:30] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:41] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:41] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:45] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:45] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:52] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:52] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:55] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:55] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:21:59] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:00] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:03] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:03] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:06] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:06] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:56] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:22:56] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:23:01] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:23:01] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:23:37] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:23:38] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:23:45] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:23:45] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:07] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:07] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:12] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:12] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:18] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:19] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:29] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:29] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:37] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:37] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:47] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:47] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:52] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:31:52] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:35:05] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:35:06] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:38:12] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 10:38:12] "POST /done HTTP/1.1" 200 -
+ * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 326-039-903
+70.51.158.161 - - [21/Feb/2016 20:02:07] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:02:12] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:02:15] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:02:15] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:04:49] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:04:49] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:09:27] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:09:27] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:10:05] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:12:15] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:12:16] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:12:33] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:12:33] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:12:55] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:12:55] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:14:10] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:14:10] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:15:24] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:15:24] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:18:43] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:18:43] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:19:48] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:19:49] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:20:52] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:20:53] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:21:34] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:21:34] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:22:29] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:22:29] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:29:04] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 20:29:04] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:34:32] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:34:32] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:34:38] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:34:38] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:34:43] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:34:43] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:35:03] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:35:03] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:35:12] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 21:35:12] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:19:00] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:19:01] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:19:04] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:19:05] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:19:11] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:19:11] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:20:18] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:20:18] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:20:24] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:20:24] "POST /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:20:28] "OPTIONS /done HTTP/1.1" 200 -
+70.51.158.161 - - [21/Feb/2016 23:20:28] "POST /done HTTP/1.1" 200 -

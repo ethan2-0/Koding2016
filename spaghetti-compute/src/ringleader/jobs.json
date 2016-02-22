@@ -1,0 +1,9 @@
+{
+	"jobs": [
+		{
+			"name": "Ethan's Customer Job",
+			"uuid": "Job1Job1Job1Job1Job1Job1Job1Job1",
+			"callback": "http://ueks277167ba.ethan2-0.koding.io:5004/"
+		}
+	]
+}

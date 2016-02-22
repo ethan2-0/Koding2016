@@ -1,0 +1,13 @@
+{
+	"work_unit_manager": {
+		"buffer_len": 24,
+		"critical_buffer_len": 10
+	},
+	"proof_of_work": {
+		"validity_period": 60
+	},
+	"hmac_key": "KYRjgSHKmi5J21MsoDXabCsgGL80WdrxZcaFapCDvKQTvyw1CNxRqqud90G0dpl2",
+	"workunitURL": "http://ueks277167ba.ethan2-0.koding.io:5002/",
+	"bot-sideURL": "http://97b531a6.ngrok.io/",
+	"responderURL": "http://ueks277167ba.ethan2-0.koding.io:5001/"
+}

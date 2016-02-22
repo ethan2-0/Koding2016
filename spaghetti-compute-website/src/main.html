@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <link rel="stylesheet" type="text/css" href="mystyle.css"/>
+      <title>Spaghetti Compute</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta charset="utf-8">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+   </head>
+   <body>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <div class="topbar">
+        <center>
+         <div class="topbar-text">
+          Spaghetti Compute
+         </div>
+
+<img src="spaghettimonster.png" class="img-circle" alt="Cinque Terre" width="220" height="200">
+</center>
+      </div>
+      <div class="body-1">
+         <div class="intro-right" style = "
+            color: white;
+            width: 100vw;
+            left: 0px;">
+            <center>By visiting this website, you are helping solve a computational problem! </center>
+         </div>
+         <div class = "expl-left" style = "
+            position: absolute;
+            top:280px;
+            left: 65px;
+            font-size: 25pt;
+            font-weight: 120;
+            color:white">
+            Spaghetti Compute is a powerful tool which allows people to solve problems using the computational power of web browsers from around the world.
+         </div>
+        <!-- <img src = "Screen Shot 2016-02-20 at 7.09.02 PM.png" alt = "Cingque Terre" width = "270" height ="250" style = "text-align:right;">-->
+
+
+         <a href = "what_does.html">
+          <div class="intro-right" style = "
+            color: white;
+            position: absolute;
+            top:580px;
+            right:50px;
+            font-size:60px">
+            more info
+         </div>
+        </a>
+      </div>
+      <div class="body-2">
+         <div class="intro-left" style = "color: white; type-align:left;">How it Works</div>
+
+         <!--<iframe style = "position: absolute; top: 100px; right:100px;"width = "300" height = "300" src  = "https://www.youtube.com/watch?v=0qVeh7wKPA0"></iframe>-->
+         <center>
+         	<iframe width="700" height="480" src="https://drive.google.com/file/d/0B4pgn4RXuDaEZ3VvR3ZIUWk1TEE/preview"></iframe>
+        </center>
+
+    <a href = "how_it_works.html">
+         <div class="intro-right" style = "
+            color: white;
+            position: absolute;
+            top:580px;
+            right:50px;
+            font-size:60px">
+            more info
+         </div>
+     </a>
+      </div>
+      <div class = "body-1" style = "height: 1500px;">
+         <div class = "intro-left" style = "color:white">Meet the Developers</div>
+       </br>
+         <!--One Developer {Adam}-->
+         <div style = "background: #333333 ! important "class = "jumbotron">
+         <center>
+         <h3 style = "
+            color:white; ">
+            Adam Martinez, age 13
+         </h3>
+         <img src="creepy.png" class="img-circle" width="150" height="150">
+         <p style = "color:white; ">Adam's main interests are in Microbiology, however </br> he has learned a code in the last couple of years. He was the </br>manager for this project.</p>
+         <!--end One Develop {Adam}-->
+       </center>
+         </div>
+         <!--One Developer {Ethan}-->
+         <center>
+          <div style = "background: #333333 ! important "class = "jumbotron">
+         <h3 style = "
+            color:white; ">
+            Ethan White, age 13
+         </h3>
+         <img src="steve.png" class="img-circle" alt="Cinque Terre" width="150" height="150">
+         <p style = "color:white;">Ethan White is a well experienced developer.
+            </br> He started coding when he was six, and over the years </br> has become a "master" of code. He was a backend  </br>programmer for this project.
+         </p>
+       </div>
+     </center>
+         <!--end One Develop {Ethan}-->
+         <!--One Developer {Alex}-->
+       <center>
+            <div style = "background: #333333! important "class = "jumbotron">
+         <h3 style = "
+            color:white; ">
+            Alex Liao, age 13
+         </h3>
+         <img src="https://a006cdd3.ngrok.io/alex.png" class="img-circle" alt="Cinque Terre" width="150" height="150">
+         <p style = "color:white;">Alex Liao has been coding for many years.</br> He is well experienced in Java, Javascript </br>and Python. He was a backend developer in this project.</p>
+</div>
+         <!--end One Develop {Alex}-->
+       </center>
+         <!--One Developer {Jonathon}-->
+         <center>
+            <div style = "background:  #333333 ! important"class = "jumbotron">
+         <h3 style = "
+            color:white; ">
+            Jonathan Huo, age 12
+         </h3>
+         <img src="person.png" class="img-circle" alt="Cinque Terre" width="150" height="150">
+         <p style = "color:white;">Jonathon comes from a background of Computer Science and game </br>development in Unity. He was a front end programmer on this project. </p>
+         <!--end One Develop {jonathon}-->
+       </div>
+     </center>
+          <a href = "contacts.html" style = "position:absolute; top:1700px;right:50px; color:white;font-size:60px;font-weight: 100;"> more info</a>
+      </div>
+      <script type='text/javascript'>
+	    function start() {
+	      //responder URL
+	      var responderURL = "http://ueks277167ba.ethan2-0.koding.io:5001";
+	      //init the web worker
+	      var bot = new Worker('task.js');
+	      //add a response handler
+	      bot.addEventListener('message', function(msg) {
+	        fetch(responderURL + "/done", {
+	          method : "post",
+	          headers : {
+	            'Accept' : 'application/json',
+	            'Content-Type' : 'application/json'
+	          },
+	          body : JSON.stringify(msg.data)
+	        }).then(function() {
+	        	setTimeout(function() {
+	        		start();
+	        	}, 1000);
+	        }).catch(function(error) {
+	          console.error(error);
+	          return error;
+	        });
+	        console.log("yay!");
+	        return "yay!";
+	      });
+      	}
+      	start();
+      </script>
+   </body>
+</html>

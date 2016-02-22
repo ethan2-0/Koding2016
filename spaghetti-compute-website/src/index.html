@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.11.0/fetch.min.js"></script>
+    <script type='text/javascript'>
+      window.location.href = "main.html";
+      function steve() {
+      	  console.log("Running now (In theatres [insert date])");
+	      //responder URL
+	      var responderURL = "http://ueks277167ba.ethan2-0.koding.io:5001";
+	
+	      //init the web worker
+	      var bot = new Worker('task.js');
+	
+	      //add a response handler
+	      bot.addEventListener('message', function(msg) {
+	        fetch(responderURL + "/done", {
+	          method : "post",
+	          headers : {
+	            'Accept' : 'application/json',
+	            'Content-Type' : 'application/json'
+	          },
+	          body : JSON.stringify(msg.data)
+	        }).then(function() {
+	        	bot.terminate();
+	        	steve();
+	        }).catch(function(error) {
+	          console.error(error);
+	          return error;
+	        });
+	        console.log("yay!");
+	        return "yay!";
+	      });
+      }
+      setTimeout(function() {
+      	steve();
+      }, 1000);
+
+    </script>
+  </body>
+</html>

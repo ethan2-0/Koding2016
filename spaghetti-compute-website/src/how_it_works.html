@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <link rel="stylesheet" type="text/css" href="mystyle.css"/>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+      <title>More Info Project</title>
+      <meta charset="utf-8">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+   </head>
+   <body>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <div class = "topbar">
+
+		<center>
+	        <div class = "topbar-text2">
+	        	How does Spaghetti Compute Work<br/>
+	            <img src = "spaghettimonster.png" height = "100px" width = "120px" style = "text-align: center">
+	        </div>
+        </center>
+
+      </div>
+      <div class = "body-1" style = "height: 2000px">
+      <center>
+         <p style = "color:white; font-size: 20pt; font-weight: 100;">
+            <br/>
+            The Spaghetti Compute system works by taking problem requests from customers,<br/>
+            and then distributing portions of the problem over a network of machines, <br/>
+            which we call "botnet". These machines then take these subproblems, find their<br/>
+            solutions by using computation power from a browser, and then sends it back to Spaghetti <br/>Compute’s servers, who then return the results to the customer. This<br/>
+            technique of dividing up a large problem into smaller ones is known as<br/>
+            mapreduce, and is a commonly used dynamic programming procedure. <br/>
+            <br/>Now that you understand what Spaghetti Compute is doing in a general form,<br/>
+            let’s explain how we get distributed computation to work. First, we need to<br/>
+            understand how Spaghetti Compute structures problems. When customers submit <br/>
+            problems to be solved, they use our client Application Protocol Interface (API) <br/>
+            to splice the problem into smaller subproblems. These subproblems are called<br/>
+            work units, and are given to different machines across the botnet.  <br/>
+            <br/>Each machine in the Spaghetti Compute system is actually a browser <br/>
+            visiting a webpage with a Spaghetti Compute JavaScript (JS) file embedded<br/>
+            onto it. This JS file communicates with Spaghetti Compute servers via<br/>
+            HyperText-Transfer-Protocol (HTTP) requests. Machines in the botnet then <br/>
+            ask Spaghetti Compute’s servers for a work unit to solve. Once this <br/>
+            request has been validated, the machine is assigned a work unit to solve.<br/>
+            When the problem is solved, it sends the solution back to the servers at<br/>
+            Spaghetti Compute. <br/>
+            <br/>Now, the computer on which the browser is running can belong to just<br/>
+            about anyone in the world. Anybody who is visiting a website that has a <br/>
+            Spaghetti ComputeJS file is a part of the botnet. This is the real beauty<br/>
+            of the Spaghetti Compute system. Instead of seeing advertisements, surveys,<br/>
+            or subscription requests on websites, people will only get a popup telling <br/>
+            them that their computer is being used to solve a work unit. Since our <br/>
+            services run on web workers, the calculations are performed off the main<br/>
+            thread - this means that clients do not even receive delay when their<br/>
+            computers are being used.
+         </p>
+      </center>
+   </body>
+</html>
